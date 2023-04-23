@@ -11,11 +11,11 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Mark Jhon Loyd I. Campano</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 
-<img aling="right" alt="coding" width="600" src="https://wallpaperaccess.com/full/849790.gif">
+<img aling="right" alt="coding" width="1200" src="https://wallpaperaccess.com/full/849790.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mjcampano&label=Profile%20views&color=0e75b6&style=flat" alt="mjcampano" /> </p>
 
-- 🌱 I’m currently learning!  **HTML5,CSS,JS,DATABASES,MYSQLDB,PYTHON,JAVA,C++,**
+- 🌱 I’m currently learning!  **HTML5,CSS,JS,DATABASES,MYSQLDB,PYTHON,JAVA,C++.**
 
 - ⚡ Fun fact **I think I am Funny ^_^;**
 
