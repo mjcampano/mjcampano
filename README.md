@@ -61,9 +61,9 @@
 | **AWS Cloud** | <img src="CERT AWS CLOUUD.png" width="200"/> | [View Image](CERT AWS CLOUUD.png) |
 | **Java Programming (NC III)** | <img src="CERT NCIII JAVA.jpg" width="200"/> | [View Image](CERT NCIII JAVA.jpg) |
 | **Computer Systems Servicing (NC II)** | <img src="CERT CSS NCII.png" width="200"/> | [Image](CERT CSS NCII.png) • [PDF](CERT CCS NCII.pdf) |
-| **AI 101** | 📄 | [View PDF](CERT AI 101.pdf) |
-| **JSAP Journalism** | 📄 | [View PDF](CERT JSAP JOURNALISM.pdf) |
-| **Power BI** | 📄 | [View PDF](CERT POWER BI.pdf) |
+| **AI 101** |  <img src="CERT POWER BI.png" width="200"/> | [View PDF](CERT AI 101.pdf) |
+| **JSAP Journalism** |  <img src="CERT JSAP.png" width="200"/> | [View PDF](CERT JSAP JOURNALISM.pdf) |
+| **Power BI** |  <img src="CERT AI 101.png" width="200"/> | [View PDF](CERT POWER BI.pdf) |
 
 ---
 
