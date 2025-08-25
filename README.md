@@ -58,13 +58,13 @@
 
 | Certificate | Preview |
 |-------------|---------|
-| <b> Contact Center Service <b> | <img src="CCS NCII.png" width="200"/> |
-| **Computer System Servicing ** | <img src="CERT CSS NCII.png" width="200"/> |
-| **Java Programming (NC III)** | <img src="CERT NCIII JAVA.jpg" width="200"/> |
-| **Power BI** | <img src="CERT POWER BI.png" width="200"/> | 
-| **AI 101** |  <img src="CERT AI 101.png" width="200"/> |
-| **JSAP Journalism** |  <img src="CERT JSAP.png" width="200"/> |
-| **Cloud Practitioner** |  <img src="CERT AWS CLOUUD.png" width="200"/> |
+| <b> Contact Center Service <b> | <img src="CCS NCII.png" width="400"/> |
+| **Computer System Servicing ** | <img src="CERT CSS NCII.png" width="400"/> |
+| **Java Programming (NC III)** | <img src="CERT NCIII JAVA.jpg" width="400"/> |
+| **Power BI** | <img src="CERT POWER BI.png" width="400"/> | 
+| **AI 101** |  <img src="CERT AI 101.png" width="400"/> |
+| **JSAP Journalism** |  <img src="CERT JSAP.png" width="400"/> |
+| **Cloud Practitioner** |  <img src="CERT AWS CLOUUD.png" width="400"/> |
 
 ---
 
